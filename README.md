@@ -1,6 +1,6 @@
 # Ramanujan Digital Twin
 
-An educational conversational experience inspired by the life and mathematical work of Srinivasa Ramanujan (1887–1920). The application combines a historical persona prompt, retrieval from a curated Markdown corpus, and session memory to answer questions about Ramanujan and his mathematics.
+An educational conversational experience inspired by the life and mathematical work of Srinivasa Ramanujan (1887-1920). The application combines a historical persona prompt, retrieval from a curated Markdown corpus, and session memory to answer questions about Ramanujan and his mathematics.
 
 > **Scope:** This is an AI-generated educational simulation, not a representation or endorsement by Ramanujan or his estate. Responses can be inaccurate; consult primary sources for research.
 
